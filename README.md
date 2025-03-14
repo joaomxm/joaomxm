@@ -9,10 +9,10 @@
   <div style="display: inline_block"><br>
   <img align="center" alt="Jmxm-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Jmxm-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jmxm-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
-  <img align="center" alt="Jmxm-Django" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg">
+  
+  <img align="center" alt="Jmxm-Nest" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Jmxm-Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg">
-  <img align="center" alt="Jmxm-Pytorch" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
+  <img align="center" alt="Jmxm-Flask" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg">
     
     
   ##
